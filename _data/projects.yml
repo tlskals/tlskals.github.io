@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 - project: echogreenseoul
-  role: Back-end Developer
+  role: Backend Developer
   duration: 2023-01 &mdash; 2023-02
   url: "https://echogreenseoul.site/"
   description: 서울과 인근 지역에 있는 친환경 관련 장소를 공유하는 사이트.
