@@ -7,6 +7,7 @@
     <list default="true" id="5f5c884e-b1c7-448a-b0aa-6e975f212c56" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/resume.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/_resume.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_resume.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675259860963</updated>
       <workItem from="1675259862229" duration="6047000" />
-      <workItem from="1675276675077" duration="3904000" />
+      <workItem from="1675276675077" duration="4643000" />
     </task>
     <servers />
   </component>
