@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "최지민 (JiMin Choi"
+resume_name:                    "최지민 (JiMin Choi)"
 resume_title:                   "주니어 백엔드 개발자"
 
 # used for the contact button in _layouts/resume.html
@@ -23,7 +23,7 @@ resume_contact_address:         "Seoul, Republic of Korea"
 resume_header_contact_info:     "Seoul, Republic of Korea • (+82) 10-9052-8708 • chlwlals8708@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>안녕하세요. 저는 최지민입니다.<br>2022년 8월부터 2023년 2월까지 코드스테이츠 백엔드 부트캠프 수료했습니다.<br>자바와 스프링을 활용하여 웹 애플리케이션을 개발했으며, TDD를 지향하는 개발자입니다.  </p>"
+resume_header_intro: "<p>안녕하세요. 저는 최지민입니다.<br>자바와 스프링을 활용하여 웹 애플리케이션을 개발했으며, TDD를 지향하는 개발자입니다.  </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
