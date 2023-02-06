@@ -99,7 +99,7 @@
             <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
             <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
             <p class="resume-item-copy">{{ project.description }}</p>
-            <p class="resume-item-copy">{{project.summary}} <A href="http://daum.net"> 다음 사이트로 연결 </A></p>
+            <p class="resume-item-copy">{{project.summary}} <A href="http://daum.net"> Raw Query를 이용한 검색 기능 구현 </A> <br> <A href="http://daum.net"> AOP를 이용한 Logging 구현 <br><A href="http://daum.net"> @EntityGraph를 이용한 N+1 문제 해결 <br> <A href="http://daum.net"> SonarQube를 이용한 코드 품질 개선 </A></A> </A></p>
           </div>
           {% endfor %}
 
