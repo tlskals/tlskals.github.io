@@ -1,12 +1,13 @@
 # Skills
-# Organizational leadership
-- skill: Spring Framework
-  description: Blah Blah
 
-# Communications strategy
+- category: Backend
+- skill: Java
+- skill: Spring MVC
 - skill: Spring Data JPA
-  description: Blah Blah
+
+- category: DataBase
+- skill: MySQL
 
 # Digital content development and creation
-- skill: SonarQube
-  description: SonarQube를 이용하여 Code 품질 테스트 및 Github Actions와 연동할 수 있습니다.
+#- skill: SonarQube
+#  description: SonarQube를 이용하여 Code 품질 테스트 및 Github Actions와 연동할 수 있습니다.
