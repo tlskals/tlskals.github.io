@@ -2,8 +2,10 @@
 
 - category: Backend
 - skill: Java
+- skill: Spring Boot
 - skill: Spring MVC
 - skill: Spring Data JPA
+
 
 - category: DataBase
 - skill: MySQL
