@@ -10,6 +10,12 @@
 - category: DataBase
 - skill: MySQL
 
+
+- category: Others
+- skill: AutoCad
+- skill: Pro-Engineer
+- skill: SolidWorks
+
 # Digital content development and creation
 #- skill: SonarQube
 #  description: SonarQube를 이용하여 Code 품질 테스트 및 Github Actions와 연동할 수 있습니다.
