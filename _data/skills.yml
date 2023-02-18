@@ -7,14 +7,14 @@
 - skill: Spring Data JPA
 
 
-- category: DataBase
+- category: DevOps
 - skill: MySQL
 
-
-- category: Others
-- skill: AutoCad
-- skill: Pro-Engineer
-- skill: SolidWorks
+#
+#- category: Others
+#- skill: AutoCad
+#- skill: Pro-Engineer
+#- skill: SolidWorks
 
 # Digital content development and creation
 #- skill: SonarQube
