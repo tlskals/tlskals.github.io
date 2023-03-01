@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f5c884e-b1c7-448a-b0aa-6e975f212c56" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/projects.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/resume.html" afterDir="false" />
-    </list>
+    <list default="true" id="5f5c884e-b1c7-448a-b0aa-6e975f212c56" name="Changes" comment="repository 추가" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,8 +61,16 @@
       <workItem from="1676505248773" duration="2112000" />
       <workItem from="1676636865735" duration="1478000" />
       <workItem from="1676735856374" duration="405000" />
-      <workItem from="1677673965659" duration="300000" />
+      <workItem from="1677673965659" duration="607000" />
     </task>
+    <task id="LOCAL-00001" summary="repository 추가">
+      <created>1677674432167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677674432167</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +86,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="repository 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="repository 추가" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
