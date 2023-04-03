@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f5c884e-b1c7-448a-b0aa-6e975f212c56" name="Changes" comment="Skills 수정">
+    <list default="true" id="5f5c884e-b1c7-448a-b0aa-6e975f212c56" name="Changes" comment="education &amp; experience 추가">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/education.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/education.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/skills.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/skills.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +66,7 @@
       <workItem from="1676636865735" duration="1478000" />
       <workItem from="1676735856374" duration="405000" />
       <workItem from="1677673965659" duration="2965000" />
-      <workItem from="1680507050897" duration="7877000" />
+      <workItem from="1680507050897" duration="9354000" />
     </task>
     <task id="LOCAL-00001" summary="repository 추가">
       <created>1677674432167</created>
@@ -171,7 +173,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680524115520</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Skills 수정">
+      <created>1680524320189</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680524320189</updated>
+    </task>
+    <task id="LOCAL-00017" summary="education &amp; experience 추가">
+      <created>1680524585910</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1680524585910</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +212,8 @@
     <MESSAGE value="Projects 수정" />
     <MESSAGE value="오타 수정" />
     <MESSAGE value="Skills 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="Skills 수정" />
+    <MESSAGE value="education &amp; experience 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="education &amp; experience 추가" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
