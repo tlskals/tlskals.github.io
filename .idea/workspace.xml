@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f5c884e-b1c7-448a-b0aa-6e975f212c56" name="Changes" comment="Projects 수정">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="5f5c884e-b1c7-448a-b0aa-6e975f212c56" name="Changes" comment="Skills 수정" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +62,7 @@
       <workItem from="1676636865735" duration="1478000" />
       <workItem from="1676735856374" duration="405000" />
       <workItem from="1677673965659" duration="2965000" />
-      <workItem from="1680507050897" duration="7156000" />
+      <workItem from="1680507050897" duration="7457000" />
     </task>
     <task id="LOCAL-00001" summary="repository 추가">
       <created>1677674432167</created>
@@ -150,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680523432717</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="오타 수정">
+      <created>1680523606953</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680523606953</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Skills 수정">
+      <created>1680523811397</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680523811397</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +185,9 @@
     <MESSAGE value="자기소개 수정" />
     <MESSAGE value="Skills &amp; Projects 수정" />
     <MESSAGE value="Projects 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projects 수정" />
+    <MESSAGE value="오타 수정" />
+    <MESSAGE value="Skills 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="Skills 수정" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
