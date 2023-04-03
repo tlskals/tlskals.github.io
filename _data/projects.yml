@@ -5,7 +5,7 @@
   role: Backend Developer
   duration: 2023-01 &mdash; 2023-02
   url: "https://echogreenseoul.site/"
-  description1: 서울과 인근 지역에 있는 친환경 관련 장소를 공유하는 사이트.
+  description1: 에코그린서울(EchoGreenSeoul)은 서울과 인근 지역에 있는 친환경 관련 장소와|내가 알고있는 좋은 장소를 메아리쳐서 함께 공유하자는 의미로 기획한 프로젝트입니다.|프로젝트의 기본적인 CRUD와 Raw Query등을 이용한 검색 기능 및 AOP를 확용한 Logging System을 구현하고|JWT Refresh Token같은 휘발성 데이터는 Redis Database를 이용하여 서버의 리소스 낭비를 줄이며 개발하였습니다.|| 미리 구상하였던 기능들을 전부 구현하고, 좀 더 숙련된 개발자가 되기 위해 작성한 코드들을 되돌아 보며 리팩토링에 대해 더 깊게 공부하고자 하였습니다.|리팩토링 관련 구글링을 하다가 SonarQube 라는 정적 코드 분석 도구를 이용한 코드의 품질검사를 진행하였습니다.
   description2: 자세한건 아래 링크를 통해 보실 수 있습니다.
   repository: Github Repository
   repository-url:  "https://github.com/codestates-seb/seb41_main_027/tree/main"
