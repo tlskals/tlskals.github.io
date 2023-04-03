@@ -2,18 +2,18 @@
 
 - category: Backend
 - skill: Java
-    주력으로 사용하고 있는 언어입니다. 객체 지향적인 코드 작성을 위해 지속적으로 학습중입니다.
+- description: 주력으로 사용하고 있는 언어입니다. 객체 지향적인 코드 작성을 위해 지속적으로 학습중입니다.
 - skill: Spring Boot
 - skill: Spring MVC
 - skill: Spring Data JPA
-    MVC 패턴을 기반으로 JPA & Hibernate를 이용하여 Restful API 구축을 메인으로 학습하였습니다.
+- description: MVC 패턴을 기반으로 JPA & Hibernate를 이용하여 Restful API 구축을 메인으로 학습하였습니다.
 - skill: Spring Security
-    Authentication & Authorization에 대한 이해와 토큰 기반 인증 방식인 JWT를 애플리케이션에 적용하였습니다.
+- description: Authentication & Authorization에 대한 이해와 토큰 기반 인증 방식인 JWT를 애플리케이션에 적용하였습니다.
 
 
 - category: DevOps
 - skill: MySQL
-    RDBMS에 대한 기본적인 개념과 NOSQL과의 차이점에 대해 공부하였고, 프로젝트에서 AWS 서버에 적용하였습니다.
+- description: RDBMS에 대한 기본적인 개념과 NOSQL과의 차이점에 대해 공부하였고, 프로젝트에서 AWS 서버에 적용하였습니다.
 
 #
 #- category: Others
