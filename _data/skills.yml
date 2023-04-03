@@ -11,7 +11,7 @@
 
 - category: DevOps
 - skill: MySQL
-- description: RDBMS에 대한 기본적인 개념과 NOSQL과의 차이점에 대해 공부하였고, 프로젝트에서 AWS RDS를 이용해 AWS EC2 인스턴스와 연동하여 사용했습니다.
+- description: RDBMS에 대한 기본적인 개념과 NOSQL과의 차이점에 대해 공부하였고, 프로젝트의 데이터베이스로 Mysql을 AWS RDS와 연동해 사용하였습니다.
 - skill: Redis
 - description: Redis의 장단점과 Memcached와의 차이점에 대해 학습하고 애플리케이션에 적용하였습니다.
 
