@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f5c884e-b1c7-448a-b0aa-6e975f212c56" name="Changes" comment="education &amp; experience 추가">
+    <list default="true" id="5f5c884e-b1c7-448a-b0aa-6e975f212c56" name="Changes" comment="Resume 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,8 @@
       <workItem from="1677673965659" duration="2965000" />
       <workItem from="1680507050897" duration="10668000" />
       <workItem from="1680602897369" duration="37000" />
-      <workItem from="1682001860950" duration="841000" />
+      <workItem from="1682001860950" duration="3235000" />
+      <workItem from="1682515840791" duration="3191000" />
     </task>
     <task id="LOCAL-00001" summary="repository 추가">
       <created>1677674432167</created>
@@ -195,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680526037049</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Resume 수정">
+      <created>1682002724239</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1682002724239</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,7 +228,8 @@
     <MESSAGE value="오타 수정" />
     <MESSAGE value="Skills 수정" />
     <MESSAGE value="education &amp; experience 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="education &amp; experience 추가" />
+    <MESSAGE value="Resume 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resume 수정" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
