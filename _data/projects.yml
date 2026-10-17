@@ -1,20 +1,50 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-- project: 에코그린서울
-  role: Backend Developer
-  duration: 2023-01 &mdash; 2023-02
-  url: "https://echogreenseoul.site/"
+- project: 신한라이프 CRM 캠페인 고도화 프로젝트
+  role: Web Developer
+  duration: 2026-07 &mdash; 2027-01(예정)
+  stack: Nexacro, MDD, Oracle
   description1: |
-    에코그린서울(EchoGreenSeoul)은 서울과 인근 지역에 있는 친환경 관련 장소와<br>
-    내가 알고있는 좋은 장소를 메아리쳐서 함께 공유하자는 의미로 기획한 프로젝트입니다.<br><br>
-    
-    프로젝트의 기본적인 CRUD와 Raw Query등을 이용한 검색 기능 및 AOP를 확용한 Logging System을 구현하고,<br>
-    JWT Refresh Token같은 휘발성 데이터는 Redis Database를 이용하여 서버의 리소스 낭비를 줄이며 개발하였습니다.<br><br>
-    
-    미리 구상하였던 기능들을 전부 구현하고, 좀 더 숙련된 개발자가 되기 위해 작성한 코드들을 되돌아 보며 리팩토링에 대해 더 깊게 공부하고자 하였습니다.<br>
-    리팩토링 관련 구글링을 하다가 SonarQube 라는 정적 코드 분석 도구를 이용한 코드의 품질검사를 진행하였습니다.
-  description2: 자세한건 아래 링크를 통해 보실 수 있습니다.
-  repository: Github Repository
-  repository-url:  "https://github.com/codestates-seb/seb41_main_027/tree/main"
-  summary :
+    신한라이프 CRM 캠페인 고도화 처리계 개발<br>
+     - 캠페인 등록/수정 기능 개선<br>
+     - 캠페인 배치프로세스 신규 개발
+  summary:
+
+- project: 신한라이프 안내장 시스템 고도화 프로젝트
+  role: Web Developer
+  duration: 2025-12 &mdash; 2026-07
+  stack: Vue3, Spring Boot, Oracle
+  description1: |
+    신한라이프 안내장 발송 시스템 개발<br>
+     - 웹 발송 시스템 전담 개발(등록/수정/삭제)<br>
+     - 유입 경로별 발송 이력 및 통계 조회 시스템 개발
+  summary:
+
+- project: 씨젠의료재단 차세대 프로젝트(SeeLIS)
+  role: Web Developer
+  duration: 2024-08 &mdash; 2025-12
+  stack: Nexacro, Spring Boot, Oracle
+  description1: |
+    씨젠의료재단 차세대 프로젝트 학부검사(조직병리학) 전담 개발<br>
+     - Azure AI Speech 서비스를 활용한 의료 음성인식(STT, TTS) 연동
+  summary:
+
+- project: 피피티웨어 CollabMaster 솔루션 개발
+  role: Web Developer
+  duration: 2024-03 &mdash; 2024-08
+  stack: Node.js, MariaDB, WebSocket, SQLite
+  description1: |
+    자사 협업 솔루션 CollabMaster 개발<br>
+     - DB 스키마 설계 및 구축<br>
+     - 웹 캔버스 드로잉 좌표 데이터 실시간 수집 및 DB 적재 로직 구현<br>
+     - 드로잉 이벤트 기반 Undo/Redo(되돌리기/다시 실행) 및 시계열 스트로크 리플레이(Replay) 기능 개발
+  summary:
+
+- project: 신한라이프 고객지원 시스템 개선
+  role: Web Developer
+  duration: 2023-07 &mdash; 2024-02
+  stack: Nexacro, MDD, Oracle
+  description1: |
+    신한라이프 D-Link 시스템 개발<br>
+     - D-Link(Short URL) 시스템 및 처리계 MDD 기반 관리 개발
+  summary:

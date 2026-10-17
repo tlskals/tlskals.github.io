@@ -1,0 +1,62 @@
+{% assign raw_name = include.name | strip %}
+{% assign name_lower = raw_name | downcase %}
+{% assign icon_url = "" %}
+
+{% if name_lower contains "javascript" or name_lower == "js" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" %}
+{% elsif name_lower contains "java" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" %}
+{% elsif name_lower contains "spring" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" %}
+{% elsif name_lower contains "mybatis" %}
+  {% assign icon_url = "images/icons/mybatis.svg" %}
+{% elsif name_lower contains "mdd" %}
+  {% assign icon_url = "images/icons/mdd.svg" %}
+{% elsif name_lower contains "vue" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" %}
+{% elsif name_lower contains "nexacro" %}
+  {% assign icon_url = "images/icons/nexacro.svg" %}
+{% elsif name_lower contains "oracle" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" %}
+{% elsif name_lower contains "mysql" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" %}
+{% elsif name_lower contains "mariadb" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" %}
+{% elsif name_lower contains "redis" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" %}
+{% elsif name_lower contains "sqlite" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" %}
+{% elsif name_lower == "git" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" %}
+{% elsif name_lower contains "node" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" %}
+{% elsif name_lower contains "vibe" %}
+  {% assign icon_url = "images/icons/vibecoding.svg" %}
+{% elsif name_lower contains "flutter" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" %}
+{% elsif name_lower contains "dart" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" %}
+{% elsif name_lower contains "riverpod" %}
+  {% assign icon_url = "images/icons/riverpod.svg" %}
+{% elsif name_lower contains "tago" or name_lower contains "공공데이터" %}
+  {% assign icon_url = "images/icons/opendata.svg" %}
+{% elsif name_lower contains "네이버" or name_lower contains "naver" %}
+  {% assign icon_url = "images/icons/naver.svg" %}
+{% elsif name_lower contains "geolocator" or name_lower contains "gps" %}
+  {% assign icon_url = "images/icons/gps.svg" %}
+{% elsif name_lower contains "firebase" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" %}
+{% elsif name_lower contains "meteo" or name_lower contains "weather" %}
+  {% assign icon_url = "images/icons/weather.svg" %}
+{% elsif name_lower contains "aws" %}
+  {% assign icon_url = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" %}
+{% elsif name_lower contains "websocket" or name_lower contains "socket" %}
+  {% assign icon_url = "images/icons/websocket.svg" %}
+{% endif %}
+
+<span class="tech-badge">
+  {% if icon_url != "" %}
+    <img src="{{ icon_url }}" alt="{{ raw_name }}" class="tech-badge-icon" />
+  {% endif %}
+  <span class="tech-badge-name">{{ raw_name }}</span>
+</span>

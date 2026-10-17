@@ -174,6 +174,84 @@
   .resume-item-copy { margin: .75rem 0 0; }
 }
 
+// Tech Badges & Stack styling
+.resume-skill-category {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0 0 0.6rem;
+  color: #fff;
+  letter-spacing: -0.02rem;
+}
+
+.tech-badge-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin: 0.35rem 0 0.75rem;
+
+  &.inline {
+    display: inline-flex;
+    margin: 0;
+    gap: 6px;
+  }
+}
+
+.resume-item-stack {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin: 0 0 0.85rem;
+  font-size: 0.95rem;
+  color: #fff;
+
+  .stack-label {
+    font-weight: 700;
+    margin-right: 2px;
+    color: #fff;
+    align-self: center;
+  }
+}
+
+.tech-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 6px;
+  padding: 4px 10px;
+  font-size: 0.875rem;
+  line-height: 1.3;
+  color: #f3f4f6;
+  vertical-align: middle;
+  transition: all 0.2s ease;
+  backdrop-filter: blur(4px);
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.12);
+    border-color: rgba(255, 255, 255, 0.28);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  }
+
+  .tech-badge-icon {
+    width: 15px;
+    height: 15px;
+    object-fit: contain;
+    flex-shrink: 0;
+    display: inline-block;
+  }
+
+  .tech-badge-name {
+    display: inline-block;
+    white-space: nowrap;
+    letter-spacing: -0.01rem;
+  }
+}
+
+
 // footer styles
 
 .page-footer {
